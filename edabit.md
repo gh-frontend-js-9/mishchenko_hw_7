@@ -1,4 +1,4 @@
-a. Conditions
+a.	Conditions
 
 	I. Challenge 1
 		1. URL: https://edabit.com/challenge/kLa2w7m4h849k8rmW
@@ -20,7 +20,7 @@ a. Conditions
 		1. URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
 		2. https://www.dropbox.com/s/myfno42j6whwcxj/factorial.png?dl=0
 		
-b. Arrays
+b.	Arrays
 
 	I. Challenge 1
 		1. URL: https://edabit.com/challenge/Q3n42rEWanZSTmsJm
@@ -42,7 +42,7 @@ b. Arrays
 		1. URL: https://edabit.com/challenge/Wd7WKqm95jhcAGATG
 		2. https://www.dropbox.com/s/zb83pn6r59sgutl/removeDups.png?dl=0
 	
-c. Loops
+c.	Loops
 
 	I. Challenge 1
 		1. URL: https://edabit.com/challenge/3kcrnpHk7krNZdnKK
@@ -64,7 +64,7 @@ c. Loops
 		1. URL: https://edabit.com/challenge/kaNYPQQWHSX4zGNhj
 		2. https://www.dropbox.com/s/feda42d0a4zkh2l/mergeArrays.png?dl=0
 		
-d. Functional Programming
+d.	Functional Programming
 
 	I. Challenge 1
 		1. URL: https://edabit.com/challenge/nBW6ubsQCurPvhpWc
@@ -73,6 +73,28 @@ d. Functional Programming
 	II. Challenge 2
 		1. URL: https://edabit.com/challenge/hzxN9bAebBPNqdQto
 		2. https://www.dropbox.com/s/1vnd8pm55ebrs3s/redundant.png?dl=0
+		
+	III. Challenge 3
+		1. URL: https://edabit.com/challenge/ENWFBL4jbTgLbSqwS
+		2. https://www.dropbox.com/s/7hi6crkk4u5gm5l/makePlusFunction.png?dl=0
+		
+	IV. Challenge 4
+		1. URL: 
+		2. 
+		
+	V. Challenge 5
+		1. URL: 
+		2. 
+		
+e.	Scope
+
+	I. Challenge 1
+		1. URL: 
+		2. 
+		
+	II. Challenge 2
+		1. URL: 
+		2. 
 		
 	III. Challenge 3
 		1. URL: 
@@ -85,16 +107,50 @@ d. Functional Programming
 	V. Challenge 5
 		1. URL: 
 		2. 
-		
-e. Scope
+	
+f.	Objects
 
+	I. Challenge 1
+		1. URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
+		2. https://www.dropbox.com/s/q0jx8999lo0yx9r/maximumScore.png?dl=0
+		
+	II. Challenge 2
+		1. URL: https://edabit.com/challenge/ms3q5GYSpFpwxeFWX
+		2. https://www.dropbox.com/s/5fmbxz255tyrh62/volumeOfBox.png?dl=0
+		
+	III. Challenge 3
+		1. URL: https://edabit.com/challenge/FzDAgSR84zeyRa278
+		2. https://www.dropbox.com/s/g3c6aph5rdycmef/cityFacts.png?dl=0
+		
+	IV. Challenge 4
+		1. URL: https://edabit.com/challenge/GJn7xcBiCLdCNXFgy
+		2. https://www.dropbox.com/s/vz7dc2jgntgph1v/profit.png?dl=0
+		
+	V. Challenge 5
+		1. URL: https://edabit.com/challenge/WikWd2QhrLbuNLYQ5
+		2. https://www.dropbox.com/s/91iiqfardqxjfa5/getStudentNames.png?dl=0
 	
-	
+g.	Classes
+
+	I. Challenge 1
+		1. URL: 
+		2. 
 		
-	
+	II. Challenge 2
+		1. URL: 
+		2. 
 		
+	III. Challenge 3
+		1. URL: 
+		2. 
 		
+	IV. Challenge 4
+		1. URL: 
+		2. 
 		
+	V. Challenge 5
+		1. URL: 
+		2. 
 		
 		
 		
